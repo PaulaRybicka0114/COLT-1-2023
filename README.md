@@ -14,3 +14,5 @@ The theme of the first edition of 2023 was Postman and API testing. The subject 
 * Slack - communication with the team 
 
 Importantly, the money raised in the first edition was donated to the animal shelter 'Psi Raj' in Pasłęk. :cherry_blossom:
+
+You can check my work by clicking here: [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/26271502-a18b2e44-7004-4535-95b0-cb532e772e09?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D26271502-a18b2e44-7004-4535-95b0-cb532e772e09%26entityType%3Dcollection%26workspaceId%3D03dbdffa-7cce-4c9d-822e-c829cf93cc2a#?env%5BTrello%5D=W3sia2V5IjoiYmFzZVVSTCIsInZhbHVlIjoiaHR0cHM6Ly9hcGkudHJlbGxvLmNvbSIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJkZWZhdWx0Iiwic2Vzc2lvblZhbHVlIjoiaHR0cHM6Ly9hcGkudHJlbGxvLmNvbSIsInNlc3Npb25JbmRleCI6MH1d)
